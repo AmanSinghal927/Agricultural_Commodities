@@ -1,0 +1,443 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgHDetailsDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Segment</th><th scope="col">Commodity</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Avg Daily Turnover (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>22 Jan 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0\.00;">3.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jan 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0\.00;">0.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0\.00;">0.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0\.00;">1.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0\.00;">1.86</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0\.00;">1.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0\.00;">1.83</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Feb 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0\.00;">2.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0\.00;">0.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0\.00;">2.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">16</td><td style="mso-number-format:0\.00;">12.13</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">17</td><td style="mso-number-format:0\.00;">12.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0\.00;">11.41</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0\.00;">11.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">15.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">17</td><td style="mso-number-format:0\.00;">12.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">47</td><td style="mso-number-format:0\.00;">36.23</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">27</td><td style="mso-number-format:0\.00;">20.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">11</td><td style="mso-number-format:0\.00;">8.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">38</td><td style="mso-number-format:0\.00;">29.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0\.00;">3.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">12</td><td style="mso-number-format:0\.00;">9.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">33</td><td style="mso-number-format:0\.00;">25.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">78</td><td style="mso-number-format:0\.00;">61.07</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">91</td><td style="mso-number-format:0\.00;">71.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">46</td><td style="mso-number-format:0\.00;">13.88</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">105</td><td style="mso-number-format:0\.00;">81.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">30</td><td style="mso-number-format:0\.00;">9.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">26</td><td style="mso-number-format:0\.00;">20.34</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0\.00;">0.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">124</td><td style="mso-number-format:0\.00;">97.88</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0\.00;">1.18</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">37</td><td style="mso-number-format:0\.00;">29.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">29</td><td style="mso-number-format:0\.00;">8.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">12</td><td style="mso-number-format:0\.00;">9.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">17</td><td style="mso-number-format:0\.00;">5.02</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">47</td><td style="mso-number-format:0\.00;">36.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">8</td><td style="mso-number-format:0\.00;">2.37</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">41.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">9</td><td style="mso-number-format:0\.00;">2.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">46</td><td style="mso-number-format:0\.00;">35.39</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">264</td><td style="mso-number-format:0\.00;">76.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">18</td><td style="mso-number-format:0\.00;">13.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">50</td><td style="mso-number-format:0\.00;">14.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">50</td><td style="mso-number-format:0\.00;">38.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">74</td><td style="mso-number-format:0\.00;">21.18</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">123.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">122</td><td style="mso-number-format:0\.00;">34.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">157</td><td style="mso-number-format:0\.00;">118.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">62</td><td style="mso-number-format:0\.00;">17.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">7</td><td style="mso-number-format:0\.00;">5.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">56</td><td style="mso-number-format:0\.00;">15.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">92</td><td style="mso-number-format:0\.00;">69.03</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">130</td><td style="mso-number-format:0\.00;">36.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">31</td><td style="mso-number-format:0\.00;">23.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">119</td><td style="mso-number-format:0\.00;">32.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">182</td><td style="mso-number-format:0\.00;">134.28</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">158</td><td style="mso-number-format:0\.00;">43.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">44</td><td style="mso-number-format:0\.00;">32.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">99</td><td style="mso-number-format:0\.00;">27.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">250</td><td style="mso-number-format:0\.00;">180.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">72</td><td style="mso-number-format:0\.00;">19.87</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">55.45</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">21.31</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">153</td><td style="mso-number-format:0\.00;">109.22</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">105</td><td style="mso-number-format:0\.00;">28.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">203</td><td style="mso-number-format:0\.00;">144.78</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">73</td><td style="mso-number-format:0\.00;">19.94</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">187</td><td style="mso-number-format:0\.00;">133.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">102</td><td style="mso-number-format:0\.00;">27.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">61</td><td style="mso-number-format:0\.00;">43.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">166</td><td style="mso-number-format:0\.00;">45.04</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">45</td><td style="mso-number-format:0\.00;">32.60</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">16</td><td style="mso-number-format:0\.00;">4.33</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">125</td><td style="mso-number-format:0\.00;">90.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">138</td><td style="mso-number-format:0\.00;">37.34</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">106</td><td style="mso-number-format:0\.00;">74.66</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">181</td><td style="mso-number-format:0\.00;">48.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">9</td><td style="mso-number-format:0\.00;">6.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">76</td><td style="mso-number-format:0\.00;">20.39</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">346</td><td style="mso-number-format:0\.00;">241.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">219</td><td style="mso-number-format:0\.00;">58.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">288</td><td style="mso-number-format:0\.00;">199.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">608</td><td style="mso-number-format:0\.00;">159.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">83</td><td style="mso-number-format:0\.00;">58.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">122</td><td style="mso-number-format:0\.00;">31.72</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">154</td><td style="mso-number-format:0\.00;">108.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">468</td><td style="mso-number-format:0\.00;">124.03</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">124</td><td style="mso-number-format:0\.00;">87.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">366</td><td style="mso-number-format:0\.00;">97.33</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">252</td><td style="mso-number-format:0\.00;">175.31</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">160</td><td style="mso-number-format:0\.00;">42.10</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">192</td><td style="mso-number-format:0\.00;">134.22</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">120</td><td style="mso-number-format:0\.00;">31.58</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0\.00;">0.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">31</td><td style="mso-number-format:0\.00;">8.18</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">72</td><td style="mso-number-format:0\.00;">50.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">32</td><td style="mso-number-format:0\.00;">8.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">129</td><td style="mso-number-format:0\.00;">90.48</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">241</td><td style="mso-number-format:0\.00;">64.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">112</td><td style="mso-number-format:0\.00;">78.90</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">217</td><td style="mso-number-format:0\.00;">58.12</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">243</td><td style="mso-number-format:0\.00;">171.76</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">344</td><td style="mso-number-format:0\.00;">92.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">205</td><td style="mso-number-format:0\.00;">146.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">323</td><td style="mso-number-format:0\.00;">88.13</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">330</td><td style="mso-number-format:0\.00;">237.33</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">359</td><td style="mso-number-format:0\.00;">97.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">38.74</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">42</td><td style="mso-number-format:0\.00;">11.41</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">347</td><td style="mso-number-format:0\.00;">249.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">287</td><td style="mso-number-format:0\.00;">78.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">174</td><td style="mso-number-format:0\.00;">123.80</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">193</td><td style="mso-number-format:0\.00;">52.50</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">327</td><td style="mso-number-format:0\.00;">234.09</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">183</td><td style="mso-number-format:0\.00;">49.49</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">160</td><td style="mso-number-format:0\.00;">114.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">266</td><td style="mso-number-format:0\.00;">72.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">456</td><td style="mso-number-format:0\.00;">322.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">208</td><td style="mso-number-format:0\.00;">55.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">130</td><td style="mso-number-format:0\.00;">91.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">72</td><td style="mso-number-format:0\.00;">19.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">293</td><td style="mso-number-format:0\.00;">204.03</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">158</td><td style="mso-number-format:0\.00;">42.28</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">80</td><td style="mso-number-format:0\.00;">55.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">109</td><td style="mso-number-format:0\.00;">29.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">168</td><td style="mso-number-format:0\.00;">117.83</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">78</td><td style="mso-number-format:0\.00;">21.06</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">64</td><td style="mso-number-format:0\.00;">44.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">102</td><td style="mso-number-format:0\.00;">27.55</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">150</td><td style="mso-number-format:0\.00;">105.66</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">322</td><td style="mso-number-format:0\.00;">88.12</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">167</td><td style="mso-number-format:0\.00;">118.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">275</td><td style="mso-number-format:0\.00;">75.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">127</td><td style="mso-number-format:0\.00;">89.89</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">157</td><td style="mso-number-format:0\.00;">42.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">169</td><td style="mso-number-format:0\.00;">119.42</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">68</td><td style="mso-number-format:0\.00;">18.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">83</td><td style="mso-number-format:0\.00;">58.23</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">14.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">460</td><td style="mso-number-format:0\.00;">319.06</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">51</td><td style="mso-number-format:0\.00;">13.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">203</td><td style="mso-number-format:0\.00;">140.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">91</td><td style="mso-number-format:0\.00;">24.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">300</td><td style="mso-number-format:0\.00;">206.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">177</td><td style="mso-number-format:0\.00;">47.94</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">195</td><td style="mso-number-format:0\.00;">133.59</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">120</td><td style="mso-number-format:0\.00;">32.49</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">196</td><td style="mso-number-format:0\.00;">134.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">71</td><td style="mso-number-format:0\.00;">19.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">93</td><td style="mso-number-format:0\.00;">63.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">114</td><td style="mso-number-format:0\.00;">31.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">214</td><td style="mso-number-format:0\.00;">146.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">652</td><td style="mso-number-format:0\.00;">180.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">515</td><td style="mso-number-format:0\.00;">350.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">288</td><td style="mso-number-format:0\.00;">79.50</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">244</td><td style="mso-number-format:0\.00;">165.87</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">115</td><td style="mso-number-format:0\.00;">32.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">254</td><td style="mso-number-format:0\.00;">172.07</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">223</td><td style="mso-number-format:0\.00;">62.43</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">143</td><td style="mso-number-format:0\.00;">96.75</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">123</td><td style="mso-number-format:0\.00;">34.74</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">153</td><td style="mso-number-format:0\.00;">102.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">258</td><td style="mso-number-format:0\.00;">71.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">438</td><td style="mso-number-format:0\.00;">294.75</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">154</td><td style="mso-number-format:0\.00;">42.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">243</td><td style="mso-number-format:0\.00;">164.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">153</td><td style="mso-number-format:0\.00;">42.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">134</td><td style="mso-number-format:0\.00;">90.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">58</td><td style="mso-number-format:0\.00;">15.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">169</td><td style="mso-number-format:0\.00;">114.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">292</td><td style="mso-number-format:0\.00;">81.43</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">213</td><td style="mso-number-format:0\.00;">144.35</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">150</td><td style="mso-number-format:0\.00;">41.66</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">174</td><td style="mso-number-format:0\.00;">118.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">635</td><td style="mso-number-format:0\.00;">176.66</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">335</td><td style="mso-number-format:0\.00;">230.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">604</td><td style="mso-number-format:0\.00;">169.37</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">507</td><td style="mso-number-format:0\.00;">344.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">174</td><td style="mso-number-format:0\.00;">48.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">266</td><td style="mso-number-format:0\.00;">179.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">255</td><td style="mso-number-format:0\.00;">70.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">603</td><td style="mso-number-format:0\.00;">405.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">447</td><td style="mso-number-format:0\.00;">123.39</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">639</td><td style="mso-number-format:0\.00;">426.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">171</td><td style="mso-number-format:0\.00;">47.24</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">57</td><td style="mso-number-format:0\.00;">37.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">90</td><td style="mso-number-format:0\.00;">24.79</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">187</td><td style="mso-number-format:0\.00;">124.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">260</td><td style="mso-number-format:0\.00;">71.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">108.74</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">46</td><td style="mso-number-format:0\.00;">12.83</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">263</td><td style="mso-number-format:0\.00;">175.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">147</td><td style="mso-number-format:0\.00;">40.34</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">210</td><td style="mso-number-format:0\.00;">140.16</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">184</td><td style="mso-number-format:0\.00;">50.56</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">47</td><td style="mso-number-format:0\.00;">31.37</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">161</td><td style="mso-number-format:0\.00;">43.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">208</td><td style="mso-number-format:0\.00;">139.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">283</td><td style="mso-number-format:0\.00;">77.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">185</td><td style="mso-number-format:0\.00;">123.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">140</td><td style="mso-number-format:0\.00;">38.74</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">269</td><td style="mso-number-format:0\.00;">180.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">207</td><td style="mso-number-format:0\.00;">57.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPAS</td><td style="mso-number-format:0;">300</td><td style="mso-number-format:0\.00;">202.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2004</td><td>AGRO COMMODITIES</td><td>KAPASKHALI</td><td style="mso-number-format:0;">331</td><td style="mso-number-format:0\.00;">92.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
