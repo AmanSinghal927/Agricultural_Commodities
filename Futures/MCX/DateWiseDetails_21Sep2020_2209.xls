@@ -1,0 +1,647 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgHDetailsDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Segment</th><th scope="col">Commodity</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Avg Daily Turnover (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>01 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1983</td><td style="mso-number-format:0\.00;">8302.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1433</td><td style="mso-number-format:0\.00;">5980.80</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1282</td><td style="mso-number-format:0\.00;">5330.89</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1095</td><td style="mso-number-format:0\.00;">4544.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1071</td><td style="mso-number-format:0\.00;">4415.18</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1302</td><td style="mso-number-format:0\.00;">5373.22</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1364</td><td style="mso-number-format:0\.00;">5665.03</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1266</td><td style="mso-number-format:0\.00;">5268.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1314</td><td style="mso-number-format:0\.00;">5452.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1243</td><td style="mso-number-format:0\.00;">5147.72</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">822</td><td style="mso-number-format:0\.00;">3420.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">911</td><td style="mso-number-format:0\.00;">3763.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1139</td><td style="mso-number-format:0\.00;">4700.49</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">950</td><td style="mso-number-format:0\.00;">3942.49</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1827</td><td style="mso-number-format:0\.00;">7606.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1161</td><td style="mso-number-format:0\.00;">4865.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">743</td><td style="mso-number-format:0\.00;">3084.34</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1583</td><td style="mso-number-format:0\.00;">6560.31</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1708</td><td style="mso-number-format:0\.00;">7056.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2054</td><td style="mso-number-format:0\.00;">8549.12</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2764</td><td style="mso-number-format:0\.00;">11490.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3776</td><td style="mso-number-format:0\.00;">15770.72</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4269</td><td style="mso-number-format:0\.00;">17962.88</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4069</td><td style="mso-number-format:0\.00;">17386.69</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jan 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2261</td><td style="mso-number-format:0\.00;">9578.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1434</td><td style="mso-number-format:0\.00;">6061.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1306</td><td style="mso-number-format:0\.00;">5548.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2041</td><td style="mso-number-format:0\.00;">8613.24</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1257</td><td style="mso-number-format:0\.00;">5289.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1470</td><td style="mso-number-format:0\.00;">6170.28</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1724</td><td style="mso-number-format:0\.00;">7286.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2994</td><td style="mso-number-format:0\.00;">12646.22</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1193</td><td style="mso-number-format:0\.00;">5105.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4984</td><td style="mso-number-format:0\.00;">21647.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2847</td><td style="mso-number-format:0\.00;">12341.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2564</td><td style="mso-number-format:0\.00;">11054.09</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2674</td><td style="mso-number-format:0\.00;">11574.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2379</td><td style="mso-number-format:0\.00;">10364.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2188</td><td style="mso-number-format:0\.00;">9599.72</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2940</td><td style="mso-number-format:0\.00;">12992.04</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2040</td><td style="mso-number-format:0\.00;">8990.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6058</td><td style="mso-number-format:0\.00;">27136.23</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3683</td><td style="mso-number-format:0\.00;">16517.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5084</td><td style="mso-number-format:0\.00;">22994.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5226</td><td style="mso-number-format:0\.00;">23946.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6264</td><td style="mso-number-format:0\.00;">28707.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4681</td><td style="mso-number-format:0\.00;">21224.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4223</td><td style="mso-number-format:0\.00;">19348.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6980</td><td style="mso-number-format:0\.00;">32468.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6911</td><td style="mso-number-format:0\.00;">32244.07</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2277</td><td style="mso-number-format:0\.00;">10550.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4305</td><td style="mso-number-format:0\.00;">19791.39</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4081</td><td style="mso-number-format:0\.00;">18881.63</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4491</td><td style="mso-number-format:0\.00;">20903.83</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5336</td><td style="mso-number-format:0\.00;">24946.22</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4450</td><td style="mso-number-format:0\.00;">20958.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5247</td><td style="mso-number-format:0\.00;">24917.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5916</td><td style="mso-number-format:0\.00;">27953.07</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3218</td><td style="mso-number-format:0\.00;">15083.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4584</td><td style="mso-number-format:0\.00;">21551.37</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4406</td><td style="mso-number-format:0\.00;">20953.55</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">8026</td><td style="mso-number-format:0\.00;">38736.06</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4212</td><td style="mso-number-format:0\.00;">20325.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5178</td><td style="mso-number-format:0\.00;">24690.86</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3766</td><td style="mso-number-format:0\.00;">17994.34</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3929</td><td style="mso-number-format:0\.00;">18901.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5003</td><td style="mso-number-format:0\.00;">23808.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4188</td><td style="mso-number-format:0\.00;">19785.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3793</td><td style="mso-number-format:0\.00;">17753.12</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4457</td><td style="mso-number-format:0\.00;">20807.58</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5686</td><td style="mso-number-format:0\.00;">26894.67</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4324</td><td style="mso-number-format:0\.00;">20595.86</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Mar 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3984</td><td style="mso-number-format:0\.00;">19365.14</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4566</td><td style="mso-number-format:0\.00;">22242.09</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4204</td><td style="mso-number-format:0\.00;">20353.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2664</td><td style="mso-number-format:0\.00;">12940.50</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3074</td><td style="mso-number-format:0\.00;">14874.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3026</td><td style="mso-number-format:0\.00;">14568.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2369</td><td style="mso-number-format:0\.00;">11294.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4322</td><td style="mso-number-format:0\.00;">20554.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4429</td><td style="mso-number-format:0\.00;">21070.10</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4494</td><td style="mso-number-format:0\.00;">21594.76</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4105</td><td style="mso-number-format:0\.00;">19770.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2809</td><td style="mso-number-format:0\.00;">13424.75</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4126</td><td style="mso-number-format:0\.00;">19598.02</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4753</td><td style="mso-number-format:0\.00;">22152.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">7073</td><td style="mso-number-format:0\.00;">32130.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4932</td><td style="mso-number-format:0\.00;">22411.59</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4523</td><td style="mso-number-format:0\.00;">20630.18</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4688</td><td style="mso-number-format:0\.00;">21013.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5537</td><td style="mso-number-format:0\.00;">24803.35</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3169</td><td style="mso-number-format:0\.00;">14355.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5534</td><td style="mso-number-format:0\.00;">24496.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3447</td><td style="mso-number-format:0\.00;">15501.56</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2093</td><td style="mso-number-format:0\.00;">9491.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3483</td><td style="mso-number-format:0\.00;">15935.20</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Apr 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3275</td><td style="mso-number-format:0\.00;">15089.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4031</td><td style="mso-number-format:0\.00;">18229.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2995</td><td style="mso-number-format:0\.00;">13678.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">728</td><td style="mso-number-format:0\.00;">3335.87</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2172</td><td style="mso-number-format:0\.00;">9895.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2116</td><td style="mso-number-format:0\.00;">9591.02</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2093</td><td style="mso-number-format:0\.00;">9483.20</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3303</td><td style="mso-number-format:0\.00;">15027.20</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2314</td><td style="mso-number-format:0\.00;">10564.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1514</td><td style="mso-number-format:0\.00;">6915.13</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2316</td><td style="mso-number-format:0\.00;">10496.74</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1583</td><td style="mso-number-format:0\.00;">7178.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2075</td><td style="mso-number-format:0\.00;">9443.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1278</td><td style="mso-number-format:0\.00;">5797.58</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1287</td><td style="mso-number-format:0\.00;">5836.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">802</td><td style="mso-number-format:0\.00;">3618.37</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1683</td><td style="mso-number-format:0\.00;">7597.80</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1356</td><td style="mso-number-format:0\.00;">6140.13</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2622</td><td style="mso-number-format:0\.00;">11869.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2218</td><td style="mso-number-format:0\.00;">10139.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3047</td><td style="mso-number-format:0\.00;">13900.75</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3333</td><td style="mso-number-format:0\.00;">15173.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2443</td><td style="mso-number-format:0\.00;">11235.36</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2102</td><td style="mso-number-format:0\.00;">9683.63</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2593</td><td style="mso-number-format:0\.00;">12004.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 May 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2752</td><td style="mso-number-format:0\.00;">12881.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">980</td><td style="mso-number-format:0\.00;">4584.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1964</td><td style="mso-number-format:0\.00;">9200.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2650</td><td style="mso-number-format:0\.00;">12590.41</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1605</td><td style="mso-number-format:0\.00;">7648.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1199</td><td style="mso-number-format:0\.00;">5705.88</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1729</td><td style="mso-number-format:0\.00;">8248.01</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">752</td><td style="mso-number-format:0\.00;">3590.49</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3401</td><td style="mso-number-format:0\.00;">16320.07</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4343</td><td style="mso-number-format:0\.00;">21079.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2742</td><td style="mso-number-format:0\.00;">13257.21</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3571</td><td style="mso-number-format:0\.00;">17396.52</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3060</td><td style="mso-number-format:0\.00;">15037.01</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">903</td><td style="mso-number-format:0\.00;">4411.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3346</td><td style="mso-number-format:0\.00;">16150.04</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3337</td><td style="mso-number-format:0\.00;">16077.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2066</td><td style="mso-number-format:0\.00;">10024.63</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2001</td><td style="mso-number-format:0\.00;">9718.15</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3015</td><td style="mso-number-format:0\.00;">14656.15</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1957</td><td style="mso-number-format:0\.00;">9616.79</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4340</td><td style="mso-number-format:0\.00;">21441.33</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3902</td><td style="mso-number-format:0\.00;">19118.90</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2540</td><td style="mso-number-format:0\.00;">12613.83</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3268</td><td style="mso-number-format:0\.00;">16225.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3741</td><td style="mso-number-format:0\.00;">18482.28</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jun 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1502</td><td style="mso-number-format:0\.00;">7368.41</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2466</td><td style="mso-number-format:0\.00;">12086.86</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1226</td><td style="mso-number-format:0\.00;">6042.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1898</td><td style="mso-number-format:0\.00;">9445.51</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1973</td><td style="mso-number-format:0\.00;">9851.79</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2121</td><td style="mso-number-format:0\.00;">10670.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1646</td><td style="mso-number-format:0\.00;">8288.64</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2172</td><td style="mso-number-format:0\.00;">11066.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1769</td><td style="mso-number-format:0\.00;">8998.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2407</td><td style="mso-number-format:0\.00;">12325.48</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1421</td><td style="mso-number-format:0\.00;">7254.30</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3206</td><td style="mso-number-format:0\.00;">16149.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1708</td><td style="mso-number-format:0\.00;">8570.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2475</td><td style="mso-number-format:0\.00;">12327.62</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1576</td><td style="mso-number-format:0\.00;">7821.45</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2339</td><td style="mso-number-format:0\.00;">11481.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2088</td><td style="mso-number-format:0\.00;">10304.28</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2301</td><td style="mso-number-format:0\.00;">11442.05</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">864</td><td style="mso-number-format:0\.00;">4282.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2837</td><td style="mso-number-format:0\.00;">14075.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1647</td><td style="mso-number-format:0\.00;">8205.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2166</td><td style="mso-number-format:0\.00;">10721.43</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3047</td><td style="mso-number-format:0\.00;">14875.58</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3720</td><td style="mso-number-format:0\.00;">17998.23</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">858</td><td style="mso-number-format:0\.00;">4164.81</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1093</td><td style="mso-number-format:0\.00;">5274.66</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2943</td><td style="mso-number-format:0\.00;">14203.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jul 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2776</td><td style="mso-number-format:0\.00;">13607.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1746</td><td style="mso-number-format:0\.00;">8575.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1592</td><td style="mso-number-format:0\.00;">7822.93</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1665</td><td style="mso-number-format:0\.00;">8271.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2720</td><td style="mso-number-format:0\.00;">13666.19</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2177</td><td style="mso-number-format:0\.00;">10897.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2525</td><td style="mso-number-format:0\.00;">12708.59</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3685</td><td style="mso-number-format:0\.00;">18894.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2004</td><td style="mso-number-format:0\.00;">10326.65</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2256</td><td style="mso-number-format:0\.00;">11628.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2424</td><td style="mso-number-format:0\.00;">12581.86</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5694</td><td style="mso-number-format:0\.00;">30111.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6344</td><td style="mso-number-format:0\.00;">34559.46</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6694</td><td style="mso-number-format:0\.00;">37180.30</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5816</td><td style="mso-number-format:0\.00;">31441.60</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3417</td><td style="mso-number-format:0\.00;">18772.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4475</td><td style="mso-number-format:0\.00;">24122.23</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3539</td><td style="mso-number-format:0\.00;">18975.16</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2430</td><td style="mso-number-format:0\.00;">12941.75</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1287</td><td style="mso-number-format:0\.00;">6914.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3371</td><td style="mso-number-format:0\.00;">18474.16</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4379</td><td style="mso-number-format:0\.00;">24324.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5189</td><td style="mso-number-format:0\.00;">29541.60</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3198</td><td style="mso-number-format:0\.00;">17963.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3042</td><td style="mso-number-format:0\.00;">16564.62</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1989</td><td style="mso-number-format:0\.00;">11052.10</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1976</td><td style="mso-number-format:0\.00;">10875.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2803</td><td style="mso-number-format:0\.00;">15528.24</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3028</td><td style="mso-number-format:0\.00;">16511.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5143</td><td style="mso-number-format:0\.00;">27278.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2578</td><td style="mso-number-format:0\.00;">13650.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1463</td><td style="mso-number-format:0\.00;">7707.68</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2220</td><td style="mso-number-format:0\.00;">11638.05</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3008</td><td style="mso-number-format:0\.00;">15680.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3581</td><td style="mso-number-format:0\.00;">18822.10</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2302</td><td style="mso-number-format:0\.00;">12066.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1383</td><td style="mso-number-format:0\.00;">7180.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2942</td><td style="mso-number-format:0\.00;">15260.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2379</td><td style="mso-number-format:0\.00;">12281.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2240</td><td style="mso-number-format:0\.00;">11510.02</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2795</td><td style="mso-number-format:0\.00;">14238.41</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2586</td><td style="mso-number-format:0\.00;">13157.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1804</td><td style="mso-number-format:0\.00;">9201.06</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3968</td><td style="mso-number-format:0\.00;">20430.82</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4150</td><td style="mso-number-format:0\.00;">21496.26</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3934</td><td style="mso-number-format:0\.00;">20521.72</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4149</td><td style="mso-number-format:0\.00;">21835.08</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3796</td><td style="mso-number-format:0\.00;">19767.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2336</td><td style="mso-number-format:0\.00;">12149.29</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4288</td><td style="mso-number-format:0\.00;">22572.63</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4505</td><td style="mso-number-format:0\.00;">23870.39</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3749</td><td style="mso-number-format:0\.00;">19820.68</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3177</td><td style="mso-number-format:0\.00;">16740.94</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1349</td><td style="mso-number-format:0\.00;">7104.90</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2857</td><td style="mso-number-format:0\.00;">14830.89</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5928</td><td style="mso-number-format:0\.00;">30271.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4032</td><td style="mso-number-format:0\.00;">20733.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3509</td><td style="mso-number-format:0\.00;">18110.80</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3562</td><td style="mso-number-format:0\.00;">18269.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1551</td><td style="mso-number-format:0\.00;">7979.25</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3905</td><td style="mso-number-format:0\.00;">19951.55</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4639</td><td style="mso-number-format:0\.00;">23672.85</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6535</td><td style="mso-number-format:0\.00;">33428.01</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2514</td><td style="mso-number-format:0\.00;">12916.04</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1932</td><td style="mso-number-format:0\.00;">9892.47</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4325</td><td style="mso-number-format:0\.00;">22036.35</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3292</td><td style="mso-number-format:0\.00;">16760.70</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3065</td><td style="mso-number-format:0\.00;">15496.94</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">7212</td><td style="mso-number-format:0\.00;">36148.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3979</td><td style="mso-number-format:0\.00;">19786.45</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1568</td><td style="mso-number-format:0\.00;">7865.16</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3820</td><td style="mso-number-format:0\.00;">19158.68</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3484</td><td style="mso-number-format:0\.00;">17267.55</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5966</td><td style="mso-number-format:0\.00;">29286.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Oct 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5140</td><td style="mso-number-format:0\.00;">25008.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4157</td><td style="mso-number-format:0\.00;">19921.97</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2135</td><td style="mso-number-format:0\.00;">10115.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1493</td><td style="mso-number-format:0\.00;">7107.79</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2119</td><td style="mso-number-format:0\.00;">10057.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4134</td><td style="mso-number-format:0\.00;">19859.21</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2998</td><td style="mso-number-format:0\.00;">14418.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3005</td><td style="mso-number-format:0\.00;">14286.24</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1603</td><td style="mso-number-format:0\.00;">7642.79</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4463</td><td style="mso-number-format:0\.00;">21549.57</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4877</td><td style="mso-number-format:0\.00;">23701.98</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3204</td><td style="mso-number-format:0\.00;">15437.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3598</td><td style="mso-number-format:0\.00;">17129.50</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0\.00;">0.00</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2745</td><td style="mso-number-format:0\.00;">12928.40</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4599</td><td style="mso-number-format:0\.00;">21582.73</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4540</td><td style="mso-number-format:0\.00;">21424.61</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4298</td><td style="mso-number-format:0\.00;">20327.55</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3869</td><td style="mso-number-format:0\.00;">18302.60</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4405</td><td style="mso-number-format:0\.00;">20758.13</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4444</td><td style="mso-number-format:0\.00;">20741.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5845</td><td style="mso-number-format:0\.00;">27362.44</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">7317</td><td style="mso-number-format:0\.00;">34413.43</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5128</td><td style="mso-number-format:0\.00;">23974.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6372</td><td style="mso-number-format:0\.00;">29589.53</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6308</td><td style="mso-number-format:0\.00;">29333.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1820</td><td style="mso-number-format:0\.00;">8439.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2949</td><td style="mso-number-format:0\.00;">13756.32</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">1999</td><td style="mso-number-format:0\.00;">9346.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5621</td><td style="mso-number-format:0\.00;">26590.89</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4210</td><td style="mso-number-format:0\.00;">19894.60</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3120</td><td style="mso-number-format:0\.00;">14676.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2823</td><td style="mso-number-format:0\.00;">13405.91</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3244</td><td style="mso-number-format:0\.00;">15420.11</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2393</td><td style="mso-number-format:0\.00;">11332.92</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3299</td><td style="mso-number-format:0\.00;">15488.12</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6160</td><td style="mso-number-format:0\.00;">29230.19</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">10034</td><td style="mso-number-format:0\.00;">48784.38</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">3172</td><td style="mso-number-format:0\.00;">15364.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6454</td><td style="mso-number-format:0\.00;">31333.84</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4401</td><td style="mso-number-format:0\.00;">21287.95</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4829</td><td style="mso-number-format:0\.00;">23365.21</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">9466</td><td style="mso-number-format:0\.00;">46322.77</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">8679</td><td style="mso-number-format:0\.00;">42383.99</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4365</td><td style="mso-number-format:0\.00;">21054.96</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5145</td><td style="mso-number-format:0\.00;">24692.71</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">6284</td><td style="mso-number-format:0\.00;">30291.82</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">5129</td><td style="mso-number-format:0\.00;">24846.17</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">4856</td><td style="mso-number-format:0\.00;">23747.45</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">2562</td><td style="mso-number-format:0\.00;">12645.04</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">7251</td><td style="mso-number-format:0\.00;">36125.54</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Dec 2013</td><td>AGRO COMMODITIES</td><td>COTTON</td><td style="mso-number-format:0;">7838</td><td style="mso-number-format:0\.00;">39178.27</td><td style="mso-number-format:0\.00;">0.00</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
